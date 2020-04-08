@@ -1,2 +1,2 @@
 # droner
-This repo coordinates remote command execution between servers and drones
+Coordinates remote command execution between servers and drones
